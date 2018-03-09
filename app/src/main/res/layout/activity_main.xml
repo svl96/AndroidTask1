@@ -15,4 +15,13 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+
+    <com.yandex.android.androidyandextask1.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/yes_hello"
+    />
+
+
+
 </android.support.constraint.ConstraintLayout>
