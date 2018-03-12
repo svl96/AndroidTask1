@@ -10,7 +10,7 @@ import android.view.View
 import android.widget.TextView
 
 
-class MyTextView : TextView {
+class MyTextView : AppCompatTextView {
     constructor(ctx: Context) : super(ctx)
 
     constructor(ctx: Context, attrs: AttributeSet) : super(ctx, attrs)
